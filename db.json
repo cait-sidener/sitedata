@@ -4,6 +4,8 @@
         "bridgeSerial": 30,
         "notes": null,
         "drainageArea": 1,
+        "runoffCoefficient": 0.6,
+        "drainageCounty": 1,
         "annualPrecipitation": 42,
         "annualPrecipitation15": 42,
         "annualRunoff": 9.6,
