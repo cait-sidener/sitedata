@@ -21,7 +21,7 @@
       }],
       "usgsReport": [{
           "returnYear": 2,
-          "flow": 484,
+          "usgsFlow": 484,
           "a": 0.0126,
           "b1": 0.579,
           "b2": 2.824,
@@ -33,7 +33,7 @@
         },
         {
           "returnYear": 5,
-          "flow": 886,
+          "usgsFlow": 886,
           "a": 0.3,
           "b1": 0.6,
           "b2": 2.138,
@@ -45,7 +45,7 @@
         },
         {
           "returnYear": 10,
-          "flow": 1205,
+          "usgsFlow": 1205,
           "a": 1.224,
           "b1": 0.611,
           "b2": 1.844,
@@ -57,7 +57,7 @@
         },
         {
           "returnYear": 25,
-          "flow": 1665,
+          "usgsFlow": 1665,
           "a": 4.673,
           "b1": 0.622,
           "b2": 1.572,
@@ -69,7 +69,7 @@
         },
         {
           "returnYear": 50,
-          "flow": 2033,
+          "usgsFlow": 2033,
           "a": 10.26,
           "b1": 0.628,
           "b2": 1.415,
@@ -81,7 +81,7 @@
         },
         {
           "returnYear": 100,
-          "flow": 2440,
+          "usgsFlow": 2440,
           "a": 19.8,
           "b1": 0.634,
           "b2": 1.288,
@@ -93,7 +93,7 @@
         },
         {
           "returnYear": 200,
-          "flow": 2865,
+          "usgsFlow": 2865,
           "a": 34.68,
           "b1": 0.64,
           "b2": 1.181,
@@ -106,7 +106,7 @@
       ],
       "fhwa": [{
         "returnYear": 2,
-        "flow": 573,
+        "fhwaFlow": 573,
         "a": 0.0105,
         "b1": 2.72,
         "b2": 1,
@@ -117,7 +117,7 @@
       },
       {
         "returnYear": 5,
-        "flow": 1086,
+        "fhwaFlow": 1086,
         "a": 0.269,
         "b1": 1.968,
         "b2": 1.002,
@@ -128,7 +128,7 @@
       },
       {
         "returnYear": 10,
-        "flow": 1513,
+        "fhwaFlow": 1513,
         "a": 1.12,
         "b1": 1.636,
         "b2": 1.004,
@@ -139,7 +139,7 @@
       },
       {
         "returnYear": 25,
-        "flow": 2133,
+        "fhwaFlow": 2133,
         "a": 4.47,
         "b1": 1.31,
         "b2": 1.004,
@@ -150,7 +150,7 @@
       },
       {
         "returnYear": 50,
-        "flow": 2582,
+        "fhwaFlow": 2582,
         "a": 9.77,
         "b1": 1.12,
         "b2": 1.004,
@@ -161,7 +161,7 @@
       },
       {
         "returnYear": 100,
-        "flow": 3087,
+        "fhwaFlow": 3087,
         "a": 19.1,
         "b1": 0.959,
         "b2": 1.005,
@@ -173,7 +173,7 @@
     ],
       "rational": [{
         "returnYear": 2,
-        "flow": 826,
+        "rationalFlow": 826,
         "a": 1,
         "b1": null,
         "b2": null,
@@ -185,7 +185,7 @@
       },
       {
         "returnYear": 5,
-        "flow": 1014,
+        "rationalFlow": 1014,
         "a": 1,
         "b1": null,
         "b2": null,
@@ -197,7 +197,7 @@
       },
       {
         "returnYear": 10,
-        "flow": 1190,
+        "rationalFlow": 1190,
         "a": 1,
         "b1": null,
         "b2": null,
@@ -209,7 +209,7 @@
       },
       {
         "returnYear": 25,
-        "flow": 1550,
+        "rationalFlow": 1550,
         "a": 1.1,
         "b1": null,
         "b2": null,
@@ -221,7 +221,7 @@
       },
       {
         "returnYear": 50,
-        "flow": 1889,
+        "rationalFlow": 1889,
         "a": 1.2,
         "b1": null,
         "b2": null,
@@ -233,7 +233,7 @@
       },
       {
         "returnYear": 100,
-        "flow": 2179,
+        "rationalFlow": 2179,
         "a": 1.25,
         "b1": null,
         "b2": null,
